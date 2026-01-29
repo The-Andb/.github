@@ -1,7 +1,7 @@
 # 🌌 The-Andb Organization
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/The-Andb/main-hierarchy/main/andb-logo-transparent.png" width="200" alt="Andb Logo">
+  <img src="https://avatars.githubusercontent.com/u/252973475" width="200" alt="Andb Logo">
 </p>
 
 <h3 align="center">Orchestrating the World's Databases</h3>
