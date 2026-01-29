@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://github.com/The-Andb/andb/releases"><img src="https://img.shields.io/github/v/release/The-Andb/andb?style=for-the-badge&color=8A2BE2" alt="Release"></a>
   <a href="#-the-ecosystem"><img src="https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge" alt="Status"></a>
-  <a href="https://twitter.com/TheAndb"><img src="https://img.shields.io/badge/follow-@TheAndb-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
 </p>
 
 ---
