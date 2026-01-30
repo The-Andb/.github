@@ -25,28 +25,28 @@ Our code is public for evaluation, education, and trust. However, commercial use
 
 ---
 
-### 🧩 The Ecosystem (8 Core Repositories)
+### 🧩 The Ecosystem (Core Repositories)
 
 Our platform is composed of specialized modules, each serving a critical role in the orchestration pipeline:
 
 #### 🧠 The Core Engines
 
-- **[core-nestjs](https://github.com/The-Andb/core-nestjs)** (Current): The modern brain. A stateless, high-performance logic library written in NestJS/TypeScript. Handles SQL parsing, dependency graphing, and migration strategies.
-- **[andb-core](https://github.com/The-Andb/andb-core)** (Legacy): The original engine node.js implementation. Maintained for backward compatibility.
+- **[andb-core](https://github.com/The-Andb/andb-core)** (Current): The modern brain. A stateless, high-performance logic library written in NestJS/TypeScript. Handles SQL parsing, dependency graphing, and migration strategies.
+- **[andb-core-legacy](https://github.com/The-Andb/andb-core-legacy)** (Legacy): The original engine node.js implementation. Maintained for backward compatibility.
 
 #### 🎨 The User Interfaces
 
-- **[next-ui](https://github.com/The-Andb/next-ui)** (Current): The flagship desktop application. Built with Electron, Vue 3, and Vite. Makes schema comparison and conflict resolution as easy as a Git merge.
-- **[andb](https://github.com/The-Andb/andb)** (Legacy): The previous generation UI.
+- **[andb-desktop](https://github.com/The-Andb/andb-desktop)** (Current): The flagship desktop application. Built with Electron, Vue 3, and Vite. Makes schema comparison and conflict resolution as easy as a Git merge.
+- **[andb-desktop-legacy](https://github.com/The-Andb/andb-desktop-legacy)** (Legacy): The previous generation UI.
 
 #### 🛠️ The Tools & Utilities
 
 - **[andb-cli](https://github.com/The-Andb/andb-cli)**: The bridge to CI/CD. A powerful terminal utility for automating exports, imports, and environment synchronizations.
-- **[andb-landing](https://github.com/The-Andb/andb-landing)**: The public face of our product. A high-performance marketing site built with Vue 3.
+- **[andb-www](https://github.com/The-Andb/andb-www)**: The public face of our product. A high-performance marketing site built with Vue 3.
 
 #### 📂 Infrastructure
 
-- **[main-hierarchy](https://github.com/The-Andb/main-hierarchy)**: The Monorepo root. Orchestrates documentation, docker configurations, and high-level planning.
+- **[andb-monorepo](https://github.com/The-Andb/andb-monorepo)**: The Monorepo root. Orchestrates documentation, docker configurations, and high-level planning.
 - **[.github](https://github.com/The-Andb/.github)**: Organization-wide health files, templates, and profiles.
 
 ---
