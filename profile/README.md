@@ -7,8 +7,9 @@
 <h3 align="center">Orchestrating the World's Databases</h3>
 
 <p align="center">
-  <a href="https://github.com/The-Andb/andb/releases"><img src="https://img.shields.io/github/v/release/The-Andb/andb?style=for-the-badge&color=8A2BE2" alt="Release"></a>
+  <a href="https://github.com/The-Andb/next-ui/releases"><img src="https://img.shields.io/github/v/release/The-Andb/next-ui?style=for-the-badge&color=8A2BE2" alt="Release"></a>
   <a href="#-the-ecosystem"><img src="https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge" alt="Status"></a>
+  <a href="https://andb.dev"><img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License"></a>
 </p>
 
 ---
@@ -17,25 +18,38 @@
 
 **The-Andb** is building the next generation of database orchestration tools. We bridge the gap between complex SQL schemas and agile development workflows, providing developers with high-performance engines and intuitive visual interfaces to manage migrations, comparisons, and deployments with zero friction.
 
-### 🧩 The Ecosystem
+### ⚖️ License & Philosophy
 
-Our mission is delivered through three specialized pillars:
+**Source-Available, Not Open Source.**
+Our code is public for evaluation, education, and trust. However, commercial use, redistribution, and SaaS hosting are strictly prohibited without a license. We believe in transparency without compromising sustainability.
 
-#### 🧠 [The Brain (Core)](https://github.com/The-Andb/andb-core)
+---
 
-The engine behind everything. A stateless, high-performance logic library written in TypeScript that handles SQL parsing, dependency graphing, and migration strategies.
+### 🧩 The Ecosystem (8 Core Repositories)
 
-- **Next-Gen:** `@the-andb/core-nest` (NestJS modular architecture).
+Our platform is composed of specialized modules, each serving a critical role in the orchestration pipeline:
 
-#### 🎨 [The Face (UI)](https://github.com/The-Andb/andb)
+#### 🧠 The Core Engines
 
-The command center for database architects. A cross-platform Electron application that makes schema comparison and conflict resolution as easy as a Git merge.
+- **[core-nestjs](https://github.com/The-Andb/core-nestjs)** (Current): The modern brain. A stateless, high-performance logic library written in NestJS/TypeScript. Handles SQL parsing, dependency graphing, and migration strategies.
+- **[andb-core](https://github.com/The-Andb/andb-core)** (Legacy): The original engine node.js implementation. Maintained for backward compatibility.
 
-- **Next-Gen:** `ui-next` (Vue 3 + Vite + Electron).
+#### 🎨 The User Interfaces
 
-#### 🛠️ [The Tool (CLI)](https://github.com/The-Andb/andb-cli)
+- **[next-ui](https://github.com/The-Andb/next-ui)** (Current): The flagship desktop application. Built with Electron, Vue 3, and Vite. Makes schema comparison and conflict resolution as easy as a Git merge.
+- **[andb](https://github.com/The-Andb/andb)** (Legacy): The previous generation UI.
 
-The bridge to CI/CD. A powerful terminal utility for automating exports, imports, and environment synchronizations.
+#### 🛠️ The Tools & Utilities
+
+- **[andb-cli](https://github.com/The-Andb/andb-cli)**: The bridge to CI/CD. A powerful terminal utility for automating exports, imports, and environment synchronizations.
+- **[andb-landing](https://github.com/The-Andb/andb-landing)**: The public face of our product. A high-performance marketing site built with Vue 3.
+
+#### 📂 Infrastructure
+
+- **[main-hierarchy](https://github.com/The-Andb/main-hierarchy)**: The Monorepo root. Orchestrates documentation, docker configurations, and high-level planning.
+- **[.github](https://github.com/The-Andb/.github)**: Organization-wide health files, templates, and profiles.
+
+---
 
 ### 🛠️ Our Tech Stack
 
@@ -51,21 +65,12 @@ The bridge to CI/CD. A powerful terminal utility for automating exports, imports
 
 ---
 
-### 🚀 Roadmap 2026
+### 🤝 Contributing
 
-- [x] **NestJS Core Rewrite** - Modularizing the brain of Andb.
-- [ ] **Andb UI Next** - High-performance desktop experience with Vue 3.
-- [ ] **AI SQL Engine** - Intelligently predicting schema conflicts and fixes.
-- [ ] **Enterprise Connectors** - Oracle, SQL Server, and Cloud Native support.
+We are currently **NOT** accepting public pull requests.
+However, we welcome bug reports and feature requests via GitHub Issues.
 
----
-
-### 🤝 Join the Movement
-
-We are an open-source first organization. Whether you are a DBA, a Fullstack Dev, or a UI/UX Designer, there's a place for you in the Andb ecosystem.
-
-- 💬 **Discussions**: [Join our GitHub Conversations](https://github.com/orgs/The-Andb/discussions)
-- ✨ **Contributing**: Read our [Organization Wiki](https://github.com/The-Andb/.github/wiki) (Coming Soon).
+Commercial inquiries: `licensing@andb.dev`
 
 ---
 
