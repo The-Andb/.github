@@ -31,7 +31,7 @@ Our platform is composed of specialized modules, each serving a critical role in
 
 #### 🧠 The Core Engines
 
-- **[andb-core](https://github.com/The-Andb/andb-core)** (Current): The modern brain. A stateless, high-performance logic library written in NestJS/TypeScript. Handles SQL parsing, dependency graphing, and migration strategies.
+- **[andb-core](https://github.com/The-Andb/andb-core)** (Current): The modern brain. A stateless, high-performance logic library written in Framework/TypeScript. Handles SQL parsing, dependency graphing, and migration strategies.
 - **[andb-core-legacy](https://github.com/The-Andb/andb-core-legacy)** (Legacy): The original engine node.js implementation. Maintained for backward compatibility.
 
 #### 🎨 The User Interfaces
