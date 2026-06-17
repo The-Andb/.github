@@ -20,8 +20,8 @@
 
 ### ⚖️ License & Philosophy
 
-**Source-Available, Not Open Source.**
-Our code is public for evaluation, education, and trust. However, commercial use, redistribution, and SaaS hosting are strictly prohibited without a license. We believe in transparency without compromising sustainability.
+**Source-Available, Free for General Use.**
+Our code is public for evaluation, education, and trust. The application is free to download and free to use for any purpose, including commercial use. However, you cannot use our software to provide a competing database orchestration service or commercial SaaS platform. For white-labeling, redistribution, or hosted services, please contact us for a commercial license
 
 ---
 
@@ -68,8 +68,6 @@ Our platform is composed of specialized modules, each serving a critical role in
 
 We are currently **NOT** accepting public pull requests.
 However, we welcome bug reports and feature requests via GitHub Issues.
-
-Commercial inquiries: `licensing@andb.dev`
 
 ---
 
