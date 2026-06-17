@@ -29,7 +29,7 @@ Our code is public for evaluation, education, and trust.
 We believe in transparency and empowering all developers—from freelancers to enterprise teams—without compromising sustainability.
 
 > 💼 **Looking for Enterprise Features or Partnerships?**
-> While the core app is 100% free for internal business use, if your organization requires **Enterprise-grade solutions** (such as SSO/SAML login, advanced Team Role-Based Access Control, Audit Logs) or wants to bundle our ecosystem into a commercial offering, please reach out to us at **licensing@andb.dev**.
+> While the core app is 100% free for internal business use, if your organization requires **Enterprise-grade solutions** (such as SSO/SAML login, advanced Team Role-Based Access Control, Audit Logs) or wants to bundle our ecosystem into a commercial offering, please reach out to us at **ph4n4n@gmail.com**.
 
 ---
 
