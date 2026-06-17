@@ -23,7 +23,7 @@
 **Source-Available, Free for General Use.**
 Our code is public for evaluation, education, and trust.
 
-- **Free to Download & Use:** **The-Andb** (including our Desktop app, CLI, and Core engines) is completely **free to download and free to use for any purpose, including commercial and internal business operations.** Enterprises, startups, and service providers are fully permitted to use it within their organizations to manage, sync, and orchestrate databases without any fees.
+- **Free to Download & Use:** **TheAndb** (including our Desktop app, CLI, and Core engines) is completely **free to download and free to use for any purpose, including commercial and internal business operations.** Enterprises, startups, and service providers are fully permitted to use it within their organizations to manage, sync, and orchestrate databases without any fees.
 - **What Requires a Commercial License:** You only need a commercial license if you intend to **commercially redistribute** our software (selling it under your own brand), white-label it, or modify our core engines to host and sell it as a paid, managed SaaS platform competing directly with us.
 
 We believe in transparency and empowering all developers—from freelancers to enterprise teams—without compromising sustainability.
@@ -35,13 +35,13 @@ We believe in transparency and empowering all developers—from freelancers to e
 
 ### 💬 Frequently Asked Questions (FAQ)
 
-#### 1. Can my company use Andb for free in our daily operations?
+#### 1. Can my company use TheAndb for free in our daily operations?
 
-**Yes, absolutely.** Your company can download and use Andb for free for any internal commercial purpose, including managing client databases, running migrations, and optimizing your own infrastructure.
+**Yes, absolutely.** Your company can download and use TheAndb for free for any internal commercial purpose, including managing client databases, running migrations, and optimizing your own infrastructure.
 
 #### 2. What exactly is prohibited under this license?
 
-You are only restricted from using Andb to compete with us. Specifically, you cannot take our source code, rebrand/white-label it to sell it as your own product, or host it as a paid, managed database orchestration SaaS.
+You are only restricted from using TheAndb to compete with us. Specifically, you cannot take our source code, rebrand/white-label it to sell it as your own product, or host it as a paid, managed database orchestration SaaS.
 
 #### 3. When would we need to purchase an Enterprise License?
 
