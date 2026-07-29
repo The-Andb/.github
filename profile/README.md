@@ -57,6 +57,8 @@ We're a small team, actively reviewing incoming issues and discussions. Bug repo
 
 ## Support the project
 
+> Software is like sex: it's better when it's free. That's the philosophy behind everything here — no hidden repositories, no source-available tricks. Read it, fork it, hack it, self-host it. If hosted services ever show up, you'll be paying for convenience, not for access to the source. Code should be free. Time isn't. ❤️
+
 Sponsorship doesn't unlock anything — it's already all AGPL-3.0. What it funds is the time behind it: development, testing across MySQL/Postgres, CI/CD, and keeping releases shipping on a predictable cadence.
 
 **[Become a sponsor →](https://github.com/sponsors/The-Andb)**
